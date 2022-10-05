@@ -1,1 +1,1 @@
-my first readme
+my first readme, its cool to have this course
